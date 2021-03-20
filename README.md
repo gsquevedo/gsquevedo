@@ -1,11 +1,11 @@
-## Gabriele Quevedo - @gsquevedo 💻
+# Gabriele Quevedo - @gsquevedo 💻
 
   - I'm Gabriele, a Computer Science student at the Federal University of Santa Maria. <br>
   - Recently improving my Java skills. <br>
   - I am currently learning Android development. <br>
   - I'm looking for opportunities in the field. <br>
   
-  ### How to reach me:
+  #### How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriele-quevedo-681b981b8/) 
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabiih_quevedo/?hl=pt-br)
   [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriele.quevedo.9/)
