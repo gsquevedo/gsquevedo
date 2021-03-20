@@ -7,7 +7,7 @@
   
   ## How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/gabriele-quevedo-681b981b8/) 
-  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link="https://www.instagram.com/gabiih_quevedo/?hl=pt-br)
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&link="https://www.instagram.com/gabiih_quevedo/?hl=pt-br)]
   [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/gabriele.quevedo.9/)
 
 <!--
