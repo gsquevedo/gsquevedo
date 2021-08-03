@@ -2,7 +2,7 @@
 
   - I'm Gabriele, a Computer Science student at the Federal University of Santa Maria. <br>
   - Recently improving my Java skills. <br>
-  - I am currently learning Android development. <br>
+  - I am currently studying mobile development. <br>
   - I'm looking for opportunities in the field. <br>
   
   #### How to reach me:
