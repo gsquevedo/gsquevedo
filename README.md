@@ -6,8 +6,8 @@
   #### How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsquevedo)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabiih_quevedo/?hl=pt-br)
-  [![Facebook Badge](https://img.shields.io/badge/Medium-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gabrielequevedo)
-  [![Medium Badge]
+  [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/gabriele.quevedo.9/)
+  [![Medium Badge](https://img.shields.io/badge/Medium-1877F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gabrielequevedo)
 <!--
 **gsquevedo/gsquevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
