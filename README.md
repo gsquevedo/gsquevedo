@@ -2,7 +2,8 @@
 
   - I'm Gabriele, a Computer Science student at the Federal University of Santa Maria. <br>
   - Experience as a software developer using Ionic and PHP technologies. <br>
-  - Currently, Intern in Software Development - AVMB Soluções em TI <br>
+  - Currently, Intern in Software Development at AVMB Soluções em TI <br>
+  - FullStack developer with the following technologies: JavaScript, TypeScript, React.js and Node.js <br>
   
   #### How to reach me:
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsquevedo)
