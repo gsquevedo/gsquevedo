@@ -2,7 +2,6 @@
 
   - I'm Gabriele, a Computer Science student at the Federal University of Santa Maria. <br>
   - Member of BitMarias. BitMarias is an extension project that aims to include women in technology.
-  - Researcher in the CIARS project, which aims to develop Artificial Intelligence software applied to health.
   - Experience as a software developer using Ionic and PHP technologies. <br>
   - Currently, Intern in Software Development at Quasar <br>
   - Web developer with the following technologies: Vue.js and Node.js <br>
