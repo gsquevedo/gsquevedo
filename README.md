@@ -2,7 +2,7 @@
 
 🎓 Computer Science undergraduate at **Federal University of Santa Maria (UFSM)**  
 💼 Currently working as a **Scholarship Student (Frontend Developer)** at **iTec/FURG**  
-🌱 Focused on **Frontend development** and currently **studying/learning Backend** (Node.js, FastAPI, Prisma)  
+🌱 Focused on **Frontend development** and currently **studying/learning Backend** (Python, DJango, FastAPI, Prisma)  
 👩‍👩‍👧 Member of **BitMarias**, an extension project that promotes the inclusion of women in technology  
 
 ---
