@@ -2,15 +2,17 @@
 
 🎓 B.Sc. in Computer Science from the Federal University of Santa Maria (UFSM)
 
-💼 Software Developer with 3+ years of experience, mainly in Frontend development
+💼 Software Developer with 3+ years of experience, primarily in Frontend development
 
-🚀 Experience with React, Next.js, Vue.js, TypeScript, JavaScript, Python and Django
+🚀 Experience building web applications with React, Next.js, Vue.js, Nuxt.js, TypeScript and JavaScript
 
-🔧 Currently expanding my skills in Backend, Full Stack development and software architecture
+⚙️ Professional experience with Backend development using Python, Django and Node.js
 
-🤖 Experience with LLMs, Prompt Engineering and AI Agents using CrewAI
+🤖 Hands-on experience with LLMs, Prompt Engineering and AI Agents using CrewAI
 
-📝 I also write about software development, programming and things I'm learning on Medium
+🔧 Currently focused on Full Stack and Backend development, while deepening my knowledge in Software Architecture, Cloud and AI Engineering
+
+📝 I write about software development, programming and things I'm learning on Medium
 
 ---
 
