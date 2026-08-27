@@ -1,9 +1,11 @@
 # 👩‍💻 Gabriele Quevedo  - gsquevedo
 
-🎓 Computer Science undergraduate at **Federal University of Santa Maria (UFSM)**  
-💼 Currently working as a **Scholarship Student (Frontend Developer)** at **iTec/FURG**  
-🌱 Focused on **Frontend development** and currently **studying/learning Backend** (Python, DJango, FastAPI, Prisma)  
-👩‍👩‍👧 Member of **BitMarias**, an extension project that promotes the inclusion of women in technology  
+🎓 B.Sc. in Computer Science from the Federal University of Santa Maria (UFSM)  
+💼 Software Developer with 3+ years of experience, mainly in Frontend development  
+🚀 Experience with React, Next.js, Vue.js, TypeScript, JavaScript, Python and Django
+🔧 Currently expanding my skills in Backend, Full Stack development and software architecture
+🤖 Experience with LLMs, Prompt Engineering and AI Agents using CrewAI
+📝 I also write about software development, programming and things I'm learning on Medium
 
 ---
 
