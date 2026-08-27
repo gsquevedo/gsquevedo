@@ -1,12 +1,12 @@
 ## 👩‍💻 Gabriele Quevedo — gsquevedo
 
 🎓 B.Sc. in Computer Science from the Federal University of Santa Maria (UFSM)  
-💼 Software Developer with 3+ years of experience, primarily in Frontend development
-🚀 Experience building web applications with React, Next.js, Vue.js, Nuxt.js, TypeScript and JavaScript
-⚙️ Professional experience with Backend development using Python, Django and Node.js
-🤖 Hands-on experience with LLMs, Prompt Engineering and AI Agents using CrewAI
-🔧 Currently focused on Full Stack and Backend development, while deepening my knowledge in Software Architecture, Cloud and AI Engineering
-📝 I write about software development, programming and things I'm learning on Medium
+💼 Software Developer with 3+ years of experience, primarily in Frontend development  
+🚀 Experience building web applications with React, Next.js, Vue.js, Nuxt.js, TypeScript and JavaScript  
+⚙️ Professional experience with Backend development using Python, Django and Node.js  
+🤖 Hands-on experience with LLMs, Prompt Engineering and AI Agents using CrewAI  
+🔧 Currently focused on Full Stack and Backend development, while deepening my knowledge in Software Architecture, Cloud and AI Engineering  
+📝 I write about software development, programming and things I'm learning on Medium  
 
 ---
 
