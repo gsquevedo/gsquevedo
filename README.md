@@ -1,4 +1,4 @@
-👩‍💻 Gabriele Quevedo — gsquevedo
+## 👩‍💻 Gabriele Quevedo — gsquevedo
 
 🎓 B.Sc. in Computer Science from the Federal University of Santa Maria (UFSM)
 
