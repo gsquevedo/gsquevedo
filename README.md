@@ -1,6 +1,6 @@
 ## 👩‍💻 Gabriele Quevedo — gsquevedo
 
-🎓 B.Sc. in Computer Science from the Federal University of Santa Maria (UFSM)
+🎓 B.Sc. in Computer Science from the Federal University of Santa Maria (UFSM)  
 💼 Software Developer with 3+ years of experience, primarily in Frontend development
 🚀 Experience building web applications with React, Next.js, Vue.js, Nuxt.js, TypeScript and JavaScript
 ⚙️ Professional experience with Backend development using Python, Django and Node.js
